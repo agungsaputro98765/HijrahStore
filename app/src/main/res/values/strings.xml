@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HijrahStore</string>
+
+    <string name="name_book">Nama Buku</string>
+    <string name="nama_penulis">Nama Penulis</string>
+    <string name="overview">overview</string>
+    <string name="tentang_kami">Tentang Kami</string>
+    <string name="penjelasan_isi">Menjelaskan Isi Buku</string>
+    <string name="isi_buku">Isi Buku</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Nama Buku \nPenulis \nMotto \nColours \nWebsite \nAddress \nTelfon \nPenerbit \nHarga</string>
+    <string name="name_me">AGUNG SAPUTRO</string>
+    <string name="email_me">agungsaputro98765@gmail.com</string>
+</resources>
